@@ -19,8 +19,8 @@ Este projeto oferece um sistema de aconselhamento acadêmico inteligente para es
 ├── verificacao.c -> Lógica de validação acadêmica <br>
 ├── conflitos.h -> Declarações para gestão de conflitos <br>
 ├── conflitos.c -> Algoritmos de alocação de horários <br>
-├── Disciplinas.txt -> Grade curricular do curso (ex: COMP359, COMP364) <br>
-├── horarios.txt -> Horários ofertados (ex: 6T12, 24M34) <br>
+├── Disciplinas.txt -> Grade curricular do curso <br>
+├── horarios.txt -> Horários ofertados <br>
 └── historico.txt -> Histórico do aluno (disciplinas cursadas) <br>
 
 ## Componentes Principais
