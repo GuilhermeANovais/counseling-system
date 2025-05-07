@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "leitura.h"
 #include "verificacao.h"
+#include "verificacao.h"
 
 int main() {
     Disciplina disciplinas[MAX_DISCS];
