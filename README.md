@@ -53,10 +53,10 @@ Este projeto oferece um sistema de aconselhamento acadêmico inteligente para es
 ### Compilação e Execução
 ```bash
 # Compilar
-gcc -o main main.c leitura.c verificacao.c conflitos.c
+gcc main.c leitura.c verificacao.c conflitos.c -o projeto
 
 # Executar
-./main
+./projeto
 ```
 
 ## Exemplo de saída
