@@ -1,0 +1,46 @@
+COMP377;6T12;A definir;13:30;14:20;Roberta Vilhena V. Lopes
+COMP383;6T23;A definir;14:20;15:20;Olival de Gusmao F. Junior e Roberta Vilhena V. Lopes
+COMP384;5T12;A definir;13:30;14:20;Mario Hozano Lucas de Souza
+COMP388;2N123;A definir;19:00;20:50;Mario Hozano Lucas de Souza
+COMP385;7M23;A definir;08:20;09:20;Thiago Damasceno Cordeiro
+ECOM011;24M34;Sala 06;09:20;11:00;Glauber R. Leite
+COMP390;35T56;A definir;17:10;18:00;Aydano Pamponet Machado
+COMP365;24T12;Laboratorio 01;13:30;14:20;Maria Cristina T. C. Escarpini
+COMP404;35T12;Sala 19;13:30;14:20;Tiago Alves Almeida
+COMP363;35T3456;Auditorio IC;15:20;18:00;Libel Pereira da Fonseca
+ECOM172;24T34;Sala 62;15:20;16:10;Bruno A. Pimentel
+COMP379;24T34;A definir;15:20;16:10;Arturo H. Dominguez
+COMP397;35T34;A definir;15:20;16:10;Roberta Vilhena V. Lopes
+COMP381;35T56;A definir;17:10;18:00;Marcelo Costa Oliveira
+ECOM039;35M34;Sala 02;09:20;11:00;Tiago F. Vieira
+COMP361;24T56;Sala 02 IC;17:10;18:00;Petrucio A. M. Barros
+ECOM040;24M12;Sala 40;07:30;08:20;Olival de Gusmao F. Junior
+COMP389;35T34;A definir;-;-
+COMP364;35T12;Laboratorio 01;13:30;15:00;Roberta Vilhena V. Lopes
+ECOM008;24M56;Sala 07;11:10;12:00;Marcio de M. Ribeiro
+COMP367;24M34;Sala 01;09:20;11:00;Libel Pereira da Fonseca
+ECOM005;24T34;Sala 01;15:20;16:10;Libel Pereira da Fonseca
+COMP399;35T56;A definir;17:10;18:00;-
+ECOM031;35T34;Sala 10;15:20;16:10;Evandro de Barros Costa
+COMP395 24M34;A definir;09:20;11:00;Fabio Paraguacu D. da Costa
+COMP360;24T34;Sala 02 IC;15:20;16:10;Fabio Paraguacu D. da Costa
+COMP362;35T12;A definir;13:30;14:20;Lucas Benevides V. de Amorim
+COMP386;35T12;A definir;13:30;14:20;Marcelo Costa Oliveira
+ECOM059;24T12;Sala 43;13:30;14:20;Erick de A. Barboza
+ECOM046;3T3456;Sala 46;15:20;18:00;Cid Cavalcante de Albuquerque
+COMP366;35T34;Auditorio IC;15:20;16:10;Lucas Benevides V. de Amorim
+ECOM020;24M56;Sala 11;11:10;12:00;Petrucio A. M. Barros
+COMP396;-;-;-;-;-
+COMP359;6T3456;Laboratorio 1;15:20;18:00;Rodrigo de Barros Paes
+COMP372;24T34;A definir;15:20;16:10;Mario Hozano L. de Souza
+COMP373;3T1234;A definir;13:30;16:10;Ranilson Oscar A. Paiva
+ECOM027;25T56;Sala 08;17:10;18:00;Rian Gabriel S. Pinheiro
+COMP382;24M3456;A definir;09:20;11:10;Willy C. Tiengo, Ranilson Oscar. A. Paiva, Rodrigo de B. Paes, Ig Ibert Bittencourt S. Pinto
+ECOM029;24T34;A definir;15:20;16:10;Almir P. Guimaraes
+COMP403;24T12;A definir;13:30;14:20;Almir P. Guimaraes
+ECOM019;36T34;Sala 12;15:20;16:10;Bruno Costa e Silva Nogueira
+ECOM044;6M3456;Sala 46;09:20;11:10;Leonardo V. Pereira
+ECOM042;35M56;Sala 46;11:10;12:00;Rodrigo J. S. Peixoto
+ECOM032;24T12;Sala 09;13:30;14:20;Andre L. L. de Aquino
+COMP376;24T12;A definir;13:30;14:20;Fabio Paraguacu D. da Costa
+COMP369;25T12;A definir;13:30;14:20;Rian Gabriel S. Pinheiro
